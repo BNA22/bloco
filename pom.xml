@@ -157,18 +157,18 @@
         </dependency>
         <dependency>
             <groupId>io.cronapp</groupId>
+            <artifactId>cronapp-reports-exec</artifactId>
+            <version>0.0.17-d-s-b</version>
+        </dependency>
+        <dependency>
+            <groupId>io.cronapp</groupId>
             <artifactId>cronapi-java</artifactId>
-            <version>0.0.133-d-s</version>
+            <version>0.0.134-d-s-b</version>
         </dependency>
         <dependency>
             <groupId>io.cronapp</groupId>
             <artifactId>cronapp-framework-java</artifactId>
-            <version>0.0.43-d-s</version>
-        </dependency>
-        <dependency>
-            <groupId>io.cronapp</groupId>
-            <artifactId>cronapp-reports-exec</artifactId>
-            <version>0.0.17-d-s-b</version>
+            <version>0.0.48-d-s-b</version>
         </dependency>
     </dependencies>
     <properties>
